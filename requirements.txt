@@ -1,5 +1,9 @@
-streamlit==1.29.0
-pandas==2.2.0
-python-docx==1.1.0
-reportlab==4.0.7
-
+streamlit
+pandas
+python-docx
+reportlab
+pdfplumber
+PyPDF2
+numpy
+scikit-learn
+matplotlib
